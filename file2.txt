@@ -1,0 +1,1 @@
+To demonstrate how add and commit work together
