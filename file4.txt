@@ -1,2 +1,3 @@
 Changes done from the master branch.
 Changes done from the master branch yet again.
+Changes done from the hotfix branch.
